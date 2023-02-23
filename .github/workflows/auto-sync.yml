@@ -38,4 +38,4 @@ jobs:
         with:
           git-author-email: ${{ secrets.AUTOSYNCHRO_CI_EMAIL }}
           git-author-name: ${{ secrets.AUTOSYNCHRO_CI_NAME }}
-          workings-repository: Netflix/hubcommander
+          working-repository: Netflix/hubcommander
